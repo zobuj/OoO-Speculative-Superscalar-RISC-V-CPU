@@ -1,0 +1,18 @@
+{
+    "valid"     : "cpu.monitor_valid",
+    "order"     : "cpu.monitor_order",
+    "inst"      : "cpu.monitor_inst",
+    "rs1_addr"  : "cpu.monitor_rs1_addr",
+    "rs2_addr"  : "cpu.monitor_rs2_addr",
+    "rs1_rdata" : "cpu.monitor_rs1_rdata",
+    "rs2_rdata" : "cpu.monitor_rs2_rdata",
+    "rd_addr"   : "cpu.monitor_rd_addr",
+    "rd_wdata"  : "cpu.monitor_rd_wdata",
+    "pc_rdata"  : "cpu.monitor_pc_rdata",
+    "pc_wdata"  : "cpu.monitor_pc_wdata",
+    "mem_addr"  : "cpu.monitor_dmem_addr",
+    "mem_rmask" : "cpu.monitor_dmem_rmask",
+    "mem_wmask" : "cpu.monitor_dmem_wmask",
+    "mem_rdata" : "cpu.monitor_dmem_rdata",
+    "mem_wdata" : "cpu.monitor_dmem_wdata"
+}
